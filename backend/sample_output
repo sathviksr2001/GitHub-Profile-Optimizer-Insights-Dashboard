@@ -1,0 +1,18 @@
+{
+  "profile": {
+    "login": "sathviksr2001",
+    "name": "Sathvik S R",
+    ...
+  },
+  "repo_stats": {
+    "total_repos": 14,
+    "total_stars": 42,
+    "total_forks": 10,
+    "top_languages": [["Python", 7], ["JavaScript", 3], ["HTML", 2]],
+    "top_repo": {
+      "name": "github-insight-app",
+      "stars": 15,
+      "url": "https://github.com/sathviksr2001/github-insight-app"
+    }
+  }
+}
